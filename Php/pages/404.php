@@ -1,0 +1,2 @@
+<h1>PAGE 404</h1>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/UHAYP0FxJOmFBuOiC2" width="20%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
